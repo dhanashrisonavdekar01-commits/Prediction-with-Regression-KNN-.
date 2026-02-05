@@ -54,13 +54,6 @@ To predict house prices based on multiple features using KNN Regression.
 - Location and size significantly impact house prices.
 - KNN regression performs well for localized price prediction.
 
--
-- KNN regression performs well for localized price prediction.
-
-
----
-
-
 
 
 
