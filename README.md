@@ -53,7 +53,7 @@ To predict house prices based on multiple features using KNN Regression.
 ### 📊 Key Insights
 - Location and size significantly impact house prices.
 - KNN regression performs well for localized price prediction.
-
+The Most optimal neighbour point is k = 2, because it gives the lowest validation error(0.098050)
 
 
 
